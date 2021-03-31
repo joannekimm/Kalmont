@@ -379,11 +379,10 @@ p, h3{
 	}
 
 	.main-item{
-		padding: 1.5em;
+		padding: 1.2em;
 		width:100%;
 		flex-basis: 100%;
     }
-
 
 	h2{
 		margin-top:4rem;

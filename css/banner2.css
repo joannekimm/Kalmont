@@ -158,6 +158,13 @@ p, h2, h3{
 	box-sizing: border-box;
 }
 
+
+@media screen and (max-width: 414px) {
+	.hamIcon{
+		margin-top: -12em;
+	}
+}
+
 @media screen and (max-width: 1140px) {
 	.column1 {
 		width:100%;
@@ -166,13 +173,7 @@ p, h2, h3{
 	#desktop-nav {
 		display: none;
 	}
-
-	.mainMenu {
-		display: block;
-		padding-bottom: 0rem;
-		margin-bottom: 0em;
-	}
-
+	
 	header {
 		display: flex;
 		justify-content: center;

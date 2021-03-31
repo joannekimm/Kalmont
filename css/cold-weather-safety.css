@@ -595,9 +595,13 @@ h5 {
 }
 
 .whole {
-  margin: 0 auto 0 auto;
-	max-width: 1200px;
-}
+	display:flex;
+	justify-content:center;
+  }
+  
+  .whole-item {
+	padding:4em;
+  }
 
 .wci-container {
   max-width: 1300px;
@@ -608,9 +612,10 @@ h5 {
 }
 
 @media (max-width: 1140px) {
-	.whole {
-	  margin: 10px;
-	}
+
+	.whole-item {
+		padding:1.2em;
+	  }
 	.middle {
 	  padding: 0px;
 	  flex: 0;
