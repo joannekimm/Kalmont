@@ -614,7 +614,7 @@ h5 {
 @media (max-width: 1140px) {
 
 	.whole-item {
-		padding:1.2em;
+		padding:2em;
 	  }
 	.middle {
 	  padding: 0px;
@@ -646,7 +646,7 @@ h5 {
 	}
 
 	.heading{
-		font-size: 0.9em;
+		font-size: 1em;
 		margin-bottom:0.5em;
 	}
 
@@ -761,7 +761,7 @@ h5 {
 	}
 
 	.heading {
-		font-size: 1em;
+		font-size: 1.1em;
 	}
 
 	ol li {
